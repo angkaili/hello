@@ -1,0 +1,23 @@
+body {
+		background-color:linen;
+	}
+	h2 {
+		color:white ;
+	}
+
+	.capitals {
+		background-color:black;   /* this will overwrite the style within div{} */
+		color:white;
+	}
+
+	#special {
+		background-color:maroon;
+	}
+
+div {
+	background-color: lightgrey;
+	width:300px;
+	border:25px solid green;
+	padding: 25px;
+	margin: 25px;
+}
